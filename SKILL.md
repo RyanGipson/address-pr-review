@@ -1,4 +1,5 @@
 ---
+name: address-pr-review
 description: Look at the pull request review comments and address any issues raised.
 disable-model-invocation: true
 context: fork
